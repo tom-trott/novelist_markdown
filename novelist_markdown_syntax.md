@@ -1,4 +1,4 @@
-#Novelist Markdown Syntax
+# Novelist Markdown Syntax
 
 `#` Book Title
 
@@ -18,7 +18,7 @@
 
 `_`Underline`_`
 
-##Best Practices for Apps and Authors
+## Best Practices for Apps and Authors
 
 `##` or `###` text should start a new page and be centre-aligned if it starts a line
 
